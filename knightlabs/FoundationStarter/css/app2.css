@@ -1,0 +1,11 @@
+body {
+background-color: #1D428A; 
+color: rgb(255, 255, 255); /* White */
+}
+
+body, P {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
