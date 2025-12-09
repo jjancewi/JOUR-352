@@ -1,0 +1,59 @@
+p {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFFFFF;
+}
+
+h3 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h6 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.start {
+  background-color: #000000;
+  width: 100%;
+  padding-left: 120px;
+}
+
+
+.arch {
+  background-color: #000000;
+  width: 100%;
+  padding-left: 10px;
+  color: #FFFFFF;
+}
+
+
+.manning {
+
+  padding-bottom: 15px;
+
+}
+
+
+.ending {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFFFFF;
+  background-color: #000000;
+  width: 100%;
+  padding-left: 540px;
+  padding-top: 25px;
+}
