@@ -1,0 +1,71 @@
+p {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.maryland {
+
+  padding-left: 55x;
+  padding-bottom: 15px;
+
+}
+
+
+h1 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFFFFF;
+}
+
+h3 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h6 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.start {
+  background-color: #000000;
+  width: 100%;
+  padding-left: 90px;
+}
+
+
+.arch {
+  background-color: #000000;
+  width: 100%;
+  padding-left: 10px;
+  color: #FFFFFF;
+}
+
+
+.manning {
+
+  padding-left: 35x;
+  padding-bottom: 15px;
+
+}
+
+
+.ending {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFFFFF;
+  background-color: #000000;
+  width: 100%;
+  padding-left: 540px;
+  padding-top: 25px;
+}
+
+
+
+
